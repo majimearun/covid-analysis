@@ -1,4 +1,3 @@
 # covidashboard
-A COVID-19 dashboard built with Tensorflow and VueJS
+A COVID-19 dashboard built with Tensorflow and Plotly.
 
-Data taken from my own [dataset](https://github.com/majimearun/covid-dataset) 
