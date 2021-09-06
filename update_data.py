@@ -13,21 +13,18 @@ def get_global_update(url=base_url, save=False):
         url (str, optional): common/home part of url used to derive other urls from which we get required information. Defaults to base_url
         save (bool, optional): arg determing whether the content gathered/updated should be saved or not. Defaults to False
     Returns:
-        (dict, dict): two dictionaries with information of cases updated most recently today and the last night respectively
+        dict: dictionary with information of cases updated most recently today
     """
 
     global_daily_url = url + "/all"
-    global_yesterday_url = url + "/all?yesterday"
 
     global_daily_update = requests.get(global_daily_url).json()
-    global_yesterday_update = requests.get(global_yesterday_url).json()
 
     if save:
         with open("./data/global_updates.pkl", "wb") as file:
             pickle.dump(global_daily_update, file)
-            pickle.dump(global_yesterday_update, file)
 
-    return global_daily_update, global_yesterday_update
+    return global_daily_update
 
 
 def get_continent_update(url=base_url, save=False):
