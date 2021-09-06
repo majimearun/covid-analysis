@@ -16,15 +16,15 @@ def get_global_update(url=base_url, save=False):
         dict: dictionary with information of cases updated most recently today
     """
 
-    global_daily_url = url + "/all"
+    global_url = url + "/all"
 
-    global_daily_update = requests.get(global_daily_url).json()
+    global_update = requests.get(global_url).json()
 
     if save:
-        with open("./data/global_updates.pkl", "wb") as file:
-            pickle.dump(global_daily_update, file)
+        with open("./data/global_update.pkl", "wb") as file:
+            pickle.dump(global_update, file)
 
-    return global_daily_update
+    return global_update
 
 
 def get_continent_update(url=base_url, save=False):
@@ -210,7 +210,7 @@ def gen_covid_data_object():
 
 if __name__ == "__main__":
 
-    global_daily_update, global_yesterday_update = get_global_update(save=True)
+    global_update = get_global_update(save=True)
     continents_df = get_continent_update(save=True)
     countries_df = get_country_update(save=True)
     (
@@ -223,8 +223,7 @@ if __name__ == "__main__":
 
     # class Data:
     #     def __init__(self):
-    #         self.global_daily_update = global_daily_update
-    #         self.global_yesterday_update = global_yesterday_update
+    #         self.global_update = global_update
     #         self.continents_df = continents_df
     #         self.countries_df = countries_df
     #         self.global_ts_df = global_ts_df
