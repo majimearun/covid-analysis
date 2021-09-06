@@ -23,7 +23,7 @@ def get_global_update(url=base_url, save=False):
     global_yesterday_update = requests.get(global_yesterday_url).json()
 
     if save:
-        with open("./files/global_updates.pkl", "wb") as file:
+        with open("./data/global_updates.pkl", "wb") as file:
             pickle.dump(global_daily_update, file)
             pickle.dump(global_yesterday_update, file)
 
@@ -63,7 +63,7 @@ def get_continent_update(url=base_url, save=False):
     continents_df = pd.DataFrame(continents, columns=continents[0].keys())
 
     if save:
-        continents_df.to_csv("./files/continents.csv", index=False)
+        continents_df.to_csv("./data/continents.csv", index=False)
 
     return continents_df
 
@@ -104,7 +104,7 @@ def get_country_update(url=base_url, save=False):
     countries_df = pd.DataFrame(countries, columns=countries[0].keys())
 
     if save:
-        countries_df.to_csv("./files/countries.csv", index=False)
+        countries_df.to_csv("./data/countries.csv", index=False)
 
     return countries_df
 
@@ -163,10 +163,10 @@ def get_time_series(url=base_url, save=False):
 
     if save:
 
-        global_ts_df.to_csv("./files/global_ts.csv", index=False)
-        country_confirmed_df.to_csv("./files/country_confirmed.csv", index=False)
-        country_deaths_df.to_csv("./files/country_deaths.csv", index=False)
-        country_recovered_df.to_csv("./files/country_recovered.csv", index=False)
+        global_ts_df.to_csv("./data/global_ts.csv", index=False)
+        country_confirmed_df.to_csv("./data/country_confirmed.csv", index=False)
+        country_deaths_df.to_csv("./data/country_deaths.csv", index=False)
+        country_recovered_df.to_csv("./data/country_recovered.csv", index=False)
 
     return global_ts_df, country_confirmed_df, country_deaths_df, country_recovered_df
 
@@ -201,8 +201,8 @@ def get_vaccination_update(url=base_url, save=False):
     vac_country_df["country"] = vac_country_df.index
 
     if save:
-        vac_global_df.to_csv("./files/vac_global.csv", index=False)
-        vac_country_df.to_csv("./files/vac_country.csv", index=False)
+        vac_global_df.to_csv("./data/vac_global.csv", index=False)
+        vac_country_df.to_csv("./data/vac_country.csv", index=False)
 
     return vac_global_df, vac_country_df
 
