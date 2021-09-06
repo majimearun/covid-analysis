@@ -154,6 +154,7 @@ def get_time_series(url=base_url, save=False):
         country_recovered_df.index, as_index=True
     ).sum()
 
+    global_ts_df["category"] = global_ts_df.index
     country_recovered_df["country"] = country_recovered_df.index
     country_deaths_df["country"] = country_deaths_df.index
     country_confirmed_df["country"] = country_confirmed_df.index
