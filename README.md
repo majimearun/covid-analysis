@@ -2,4 +2,4 @@
 
 <br>
 
-- Note: The [Old version](https://github.com/anandrajaram21/covidash) of the project is broken, so it is being redone with a new data api and pipeline.
+- Note: The [Old version](https://github.com/anandrajaram21/covidash) of the project is broken, so it is has been redone with a new data api and pipeline.
