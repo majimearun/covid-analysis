@@ -5,7 +5,7 @@ import numpy as np
 import warnings
 import json
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 EPS = 1e-10  # epsilon
@@ -188,7 +188,7 @@ class FindErrors(object):
         return errors
 
     def _error(self, true=None, predicted=None):
-        """ simple difference """
+        """simple difference"""
         if true is None:
             true = self.true
         if predicted is None:
@@ -202,11 +202,11 @@ class FindErrors(object):
         return self._error() / (self.true + EPS) * 100
 
     def _naive_prognose(self, seasonality: int = 1):
-        """ Naive forecasting method which just repeats previous samples """
+        """Naive forecasting method which just repeats previous samples"""
         return self.true[:-seasonality]
 
     def _relative_error(self, benchmark: np.ndarray = None):
-        """ Relative Error """
+        """Relative Error"""
         if benchmark is None or isinstance(benchmark, int):
             # If no benchmark prediction provided - use naive forecasting
             if not isinstance(benchmark, int):
@@ -223,7 +223,7 @@ class FindErrors(object):
         return self._error() / (self._error(self.true, benchmark) + EPS)
 
     def _bounded_relative_error(self, benchmark: np.ndarray = None):
-        """ Bounded Relative Error """
+        """Bounded Relative Error"""
         if benchmark is None or isinstance(benchmark, int):
             # If no benchmark prediction provided - use naive forecasting
             if not isinstance(benchmark, int):
@@ -244,7 +244,7 @@ class FindErrors(object):
         return abs_err / (abs_err + abs_err_bench + EPS)
 
     def _ae(self):
-        """Absolute error """
+        """Absolute error"""
         return np.abs(self.true - self.predicted)
 
     def acc(self):
@@ -266,7 +266,7 @@ class FindErrors(object):
         return a / b
 
     def me(self):
-        """Mean error """
+        """Mean error"""
         return np.mean(self._error())
 
     def mle(self):
@@ -295,7 +295,7 @@ class FindErrors(object):
         )
 
     def rmsse(self, seasonality: int = 1):
-        """ Root Mean Squared Scaled Error """
+        """Root Mean Squared Scaled Error"""
         q = np.abs(self._error()) / self.mae(
             self.true[seasonality:], self._naive_prognose(seasonality)
         )
@@ -382,14 +382,14 @@ class FindErrors(object):
         return np.sqrt(np.median(np.square(self._percentage_error()))) * 100.0
 
     def inrse(self):
-        """ Integral Normalized Root Squared Error """
+        """Integral Normalized Root Squared Error"""
         return np.sqrt(
             np.sum(np.square(self._error()))
             / np.sum(np.square(self.true - np.mean(self.true)))
         )
 
     def rrse(self):
-        """ Root Relative Squared Error """
+        """Root Relative Squared Error"""
         return np.sqrt(
             np.sum(np.square(self.true - self.predicted))
             / np.sum(np.square(self.true - np.mean(self.true)))
@@ -405,11 +405,11 @@ class FindErrors(object):
         return np.mean(dict_acc)
 
     def gmae(self):
-        """ Geometric Mean Absolute Error """
+        """Geometric Mean Absolute Error"""
         return _geometric_mean(np.abs(self._error()))
 
     def mpe(self):
-        """ Mean Percentage Error """
+        """Mean Percentage Error"""
         return np.mean(self._percentage_error())
 
     def mdape(self):
@@ -437,52 +437,52 @@ class FindErrors(object):
         )
 
     def norm_ae(self):
-        """ Normalized Absolute Error """
+        """Normalized Absolute Error"""
         return np.sqrt(
             np.sum(np.square(self._error() - self.mae())) / (len(self.true) - 1)
         )
 
     def norm_ape(self):
-        """ Normalized Absolute Percentage Error """
+        """Normalized Absolute Percentage Error"""
         return np.sqrt(
             np.sum(np.square(self._percentage_error() - self.mape()))
             / (len(self.true) - 1)
         )
 
     def rae(self):
-        """ Relative Absolute Error (aka Approximation Error) """
+        """Relative Absolute Error (aka Approximation Error)"""
         return np.sum(self._ae()) / (
             np.sum(np.abs(self.true - np.mean(self.true))) + EPS
         )
 
     def mrae(self, benchmark: np.ndarray = None):
-        """ Mean Relative Absolute Error """
+        """Mean Relative Absolute Error"""
         return np.mean(np.abs(self._relative_error(benchmark)))
 
     def mdrae(self, benchmark: np.ndarray = None):
-        """ Median Relative Absolute Error """
+        """Median Relative Absolute Error"""
         return np.median(np.abs(self._relative_error(benchmark)))
 
     def gmrae(self, benchmark: np.ndarray = None):
-        """ Geometric Mean Relative Absolute Error """
+        """Geometric Mean Relative Absolute Error"""
         return _geometric_mean(np.abs(self._relative_error(benchmark)))
 
     def mbrae(self, benchmark: np.ndarray = None):
-        """ Mean Bounded Relative Absolute Error """
+        """Mean Bounded Relative Absolute Error"""
         return np.mean(self._bounded_relative_error(benchmark))
 
     def umbrae(self, benchmark: np.ndarray = None):
-        """ Unscaled Mean Bounded Relative Absolute Error """
+        """Unscaled Mean Bounded Relative Absolute Error"""
         return self.mbrae(benchmark) / (1 - self.mbrae(benchmark))
 
     def rmse(self, weights=None) -> float:
-        """ root mean square error"""
+        """root mean square error"""
         return sqrt(
             np.average((self.true - self.predicted) ** 2, axis=0, weights=weights)
         )
 
     def mse(self, weights=None) -> float:
-        """ mean square error """
+        """mean square error"""
         return np.average((self.true - self.predicted) ** 2, axis=0, weights=weights)
 
     def r2(self) -> float:
@@ -491,7 +491,7 @@ class FindErrors(object):
         zx = (self.true - np.mean(self.true)) / np.std(self.true, ddof=1)
         zy = (self.predicted - np.mean(self.predicted)) / np.std(self.predicted, ddof=1)
         r = np.sum(zx * zy) / (len(self.true) - 1)
-        return r ** 2
+        return r**2
 
     def r2_mod(self, weights=None) -> float:
         """
@@ -533,22 +533,22 @@ class FindErrors(object):
         return _nse
 
     def abs_pbias(self) -> float:
-        """ Absolute Percent bias"""
+        """Absolute Percent bias"""
         _apb = (
             100.0 * sum(abs(self.predicted - self.true)) / sum(self.true)
         )  # Absolute percent bias
         return _apb
 
     def pbias(self) -> float:
-        """ Percent Bias"""
+        """Percent Bias"""
         return 100.0 * sum(self.predicted - self.true) / sum(self.true)  # percent bias
 
     def nrmse(self) -> float:
-        """ Normalized Root Mean Squared Error """
+        """Normalized Root Mean Squared Error"""
         return self.rmse() / (self.true.max() - self.true.min())
 
     def mae(self, true=None, predicted=None):
-        """ Mean Absolute Error """
+        """Mean Absolute Error"""
         if true is None:
             true = self.true
         if predicted is None:
@@ -556,7 +556,7 @@ class FindErrors(object):
         return np.mean(np.abs(true - predicted))
 
     def mape(self) -> float:
-        """ Mean Absolute Percentage Error"""
+        """Mean Absolute Percentage Error"""
         return np.mean(np.abs((self.true - self.predicted) / self.true)) * 100
 
     def smape(self) -> float:
@@ -605,7 +605,7 @@ class FindErrors(object):
         return float(np.sum(self._ae() / np.sum(self.true)))
 
     def mean_abs_rel_error(self) -> float:
-        """ Mean Absolute Relative Error """
+        """Mean Absolute Relative Error"""
         return np.sum(self._ae(), axis=0, dtype=np.float64) / np.sum(self.true)
 
     def mean_bias_error(self) -> float:
@@ -653,7 +653,7 @@ class FindErrors(object):
         if scale < 0.01:
             scale = 0.01
         y = (self.true - self.predicted) / scale
-        normpdf = -(y ** 2) / 2 - np.log(np.sqrt(2 * np.pi))
+        normpdf = -(y**2) / 2 - np.log(np.sqrt(2 * np.pi))
         return float(np.mean(normpdf))
 
     def corr_coeff(self) -> float:
@@ -1103,7 +1103,7 @@ class FindErrors(object):
         for i in range(n):
             tot = tot + np.sum(np.abs(self.predicted - self.true[i]))
         mae_val = np.sum(np.abs(self.predicted - self.true)) / n
-        mb = 1 - ((n ** 2) * mae_val / tot)
+        mb = 1 - ((n**2) * mae_val / tot)
 
         return mb
 
@@ -1133,7 +1133,7 @@ class FindErrors(object):
         return a * np.arcsin(1 - (self.mse() / f))
 
     def stats(self, verbose: bool = False) -> dict:
-        """ returs some important stats about true and predicted values."""
+        """returs some important stats about true and predicted values."""
         _stats = dict()
         _stats["true"] = stats(self.true)
         _stats["predicted"] = stats(self.predicted)
@@ -1254,7 +1254,7 @@ class FindErrors(object):
         return d
 
     def aitchison(self, center="mean"):
-        """ Aitchison distance. used in https://hess.copernicus.org/articles/24/2505/2020/hess-24-2505-2020.pdf"""
+        """Aitchison distance. used in https://hess.copernicus.org/articles/24/2505/2020/hess-24-2505-2020.pdf"""
         lx = np.log(self.true)
         ly = np.log(self.predicted)
         if center.upper() == "MEAN":
@@ -1377,20 +1377,20 @@ class FindErrors(object):
 
         return bs
 
-    def plot(self, save=True, name="plot", show=False):
-        fig, axis = plt.subplots()
+    # def plot(self, save=True, name="plot", show=False):
+    #     fig, axis = plt.subplots()
 
-        axis.plot(np.arange(len(self.true)), self.true, label="True")
-        axis.plot(np.arange(len(self.predicted)), self.predicted, label="Predicted")
-        axis.legend(loc="best")
+    #     axis.plot(np.arange(len(self.true)), self.true, label="True")
+    #     axis.plot(np.arange(len(self.predicted)), self.predicted, label="Predicted")
+    #     axis.legend(loc="best")
 
-        if save:
-            plt.savefig(name, dpi=300, bbox_inches="tight")
-        if show:
-            plt.show()
+    #     if save:
+    #         plt.savefig(name, dpi=300, bbox_inches="tight")
+    #     if show:
+    #         plt.show()
 
-        plt.close("all")
-        return
+    #     plt.close("all")
+    #     return
 
     def mean_var(self):
         """Mean variance"""
@@ -1589,7 +1589,7 @@ def _mean_tweedie_deviance(y_true, y_pred, power=0, weights=None):
 
 
 def _geometric_mean(a, axis=0, dtype=None):
-    """ Geometric mean """
+    """Geometric mean"""
     if not isinstance(a, np.ndarray):  # if not an ndarray object attempt to convert it
         log_a = np.log(np.array(a, dtype=dtype))
     elif dtype:  # Must change the default dtype allowing array type
@@ -1610,8 +1610,8 @@ if __name__ == "__main__":
 
     all_errors = er.calculate_all(True, True, True)
 
-    er.plot(show=True)
-    t = np.random.randint(0, 2, 20).reshape(20, 1)
-    er = FindErrors(t, p)
-    print("brier score: ", er.brier_score())
-    s = er.stats()
+    # er.plot(show=True)
+    # t = np.random.randint(0, 2, 20).reshape(20, 1)
+    # er = FindErrors(t, p)
+    # print("brier score: ", er.brier_score())
+    # s = er.stats()
