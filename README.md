@@ -5,7 +5,8 @@
 ## Notes
 1. The [old version](https://github.com/anandrajaram21/covidash) of the project is broken. In this repository the data is being collected using an updated data api and pipeline. (see [update_data.py](update_data.py))
 2. For a working version of the dashboard (but using old data api/pipeline) check fork of original at [covidash](https://github.com/anirudhlakhotia/covidash)
-    - [Report and screenshots of dashboard](https://drive.google.com/file/d/1ASTxyQcch860FQVMqSMhQsaxIkiqG4pG/view?usp=sharing)
+    - [Screenshots of dashboard](https://drive.google.com/file/d/1ykqFnPSMWK4rBdFzl-4S9nE6GUAbD2qi/view?usp=sharing)
+    - [Project/Dashboard report](https://drive.google.com/file/d/1ASTxyQcch860FQVMqSMhQsaxIkiqG4pG/view?usp=sharing)
 3. To just test/run notebook:
    - download [TSErrors.py](https://github.com/majimearun/covid-analysis/blob/main/src/TSErrors.py)
    - open the notebook and run it on google colab using the given linkbutton below
