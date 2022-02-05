@@ -221,21 +221,3 @@ if __name__ == "__main__":
         country_recovered_df,
     ) = get_time_series(save=True)
     vac_global_df, vac_country_df = get_vaccination_update(save=True)
-
-    # class Data:
-    #     def __init__(self):
-    #         self.global_update = global_update
-    #         self.continents_df = continents_df
-    #         self.countries_df = countries_df
-    #         self.global_ts_df = global_ts_df
-    #         self.country_confirmed_df = country_confirmed_df
-    #         self.country_deaths_df = country_deaths_df
-    #         self.country_recovered_df = country_recovered_df
-    #         self.vac_global_df = vac_global_df
-    #         self.vac_country_df = vac_country_df
-
-    # covid_data = Data()
-
-    # with open("./covid_data_object.pkl", "wb") as file:
-    #     pickle.dump(covid_data, file)
-
