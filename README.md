@@ -5,9 +5,10 @@
 ## Notes
 1. The [old version](https://github.com/anandrajaram21/covidash) of the project is broken. In this repository the data is being collected using an updated data api and pipeline.
 2. For a working version of the dashboard (but using old data api/pipeline) check fork of original at [covidash](https://github.com/anirudhlakhotia/covidash)
+    - [Report and Screenshots of dahsboard](https://drive.google.com/file/d/1ASTxyQcch860FQVMqSMhQsaxIkiqG4pG/view?usp=sharing)
 3. To just test/run notebook:
    - download [TSErrors.py](https://github.com/majimearun/covid-analysis/blob/main/src/TSErrors.py)
-   - make a copy of the notebook and run it on google colab using the given link
+   - open the notebook and run it on google colab using the given linkbutton below
    - upload TSErrors.py as a utility script
    - run the notebook
 
@@ -24,3 +25,5 @@
   ```
 
 - Choose new env kernel in vscode and run notebook
+
+[Report and Screenshots of dahsboard]()
