@@ -3,7 +3,7 @@
 <br>
 
 ## Notes
-1. The [old version](https://github.com/anandrajaram21/covidash) of the project is broken, in this repository the data is being collected using an updated data api and pipeline.
+1. The [old version](https://github.com/anandrajaram21/covidash) of the project is broken. In this repository the data is being collected using an updated data api and pipeline.
 2. For a working version of the dashboard (but using old data api/pipeline) check fork of original at [covidash](https://github.com/anirudhlakhotia/covidash)
 3. To just test/run notebook, make a copy of the notebook and run it on google colab:
 
