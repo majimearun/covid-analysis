@@ -9,7 +9,7 @@
     - [Project/Dashboard report](https://drive.google.com/file/d/1ASTxyQcch860FQVMqSMhQsaxIkiqG4pG/view?usp=sharing)
 3. To just test/run notebook:
    - download [TSErrors.py](https://github.com/majimearun/covid-analysis/blob/main/src/TSErrors.py)
-   - open the notebook and run it on google colab using the given linkbutton below
+   - open the notebook in google colab using the given link/button below
    - upload TSErrors.py as a utility script
    - run the notebook
 
