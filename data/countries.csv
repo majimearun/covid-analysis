@@ -1,226 +1,226 @@
 country,lat,long,confirmed_cumulative,confirmed_new,deaths_cumulative,deaths_new,recovered_cumulative,recovered_new,active,critical,updated,continent,flag
-Afghanistan,33.0,65.0,169448,845,7477,11,148090,246,13881,1124,1644534539770,Asia,https://disease.sh/assets/img/flags/af.png
-Albania,41.0,20.0,267020,604,3402,3,252982,1505,10636,23,1644534539661,Europe,https://disease.sh/assets/img/flags/al.png
-Algeria,28.0,3.0,260191,518,6690,12,173476,416,80025,35,1644534539663,Africa,https://disease.sh/assets/img/flags/dz.png
-Andorra,42.5,1.6,37074,85,148,0,35753,112,1173,14,1644534539976,Europe,https://disease.sh/assets/img/flags/ad.png
-Angola,-12.5,18.5,98453,0,1896,0,96140,0,417,1,1644534539784,Africa,https://disease.sh/assets/img/flags/ao.png
-Anguilla,18.25,-63.1667,2458,0,9,0,2435,0,14,4,1644534540170,North America,https://disease.sh/assets/img/flags/ai.png
-Antigua and Barbuda,17.05,-61.8,6853,0,131,0,6400,0,322,1,1644534540161,North America,https://disease.sh/assets/img/flags/ag.png
-Argentina,-34.0,-64.0,8700437,25110,123707,263,8327294,44762,249436,2321,1644534538859,South America,https://disease.sh/assets/img/flags/ar.png
-Armenia,40.0,45.0,399727,2842,8123,15,362004,2548,29600,0,1644534539566,Asia,https://disease.sh/assets/img/flags/am.png
-Aruba,12.5,-69.9667,33436,30,196,0,33092,19,148,8,1644534539982,North America,https://disease.sh/assets/img/flags/aw.png
-Australia,-27.0,133.0,2822238,25877,4422,56,2568696,0,249120,271,1644534539168,Australia-Oceania,https://disease.sh/assets/img/flags/au.png
-Austria,47.3333,13.3333,2184873,35250,14315,22,1828444,38717,342114,191,1644534539258,Europe,https://disease.sh/assets/img/flags/at.png
-Azerbaijan,40.5,47.5,725777,7632,8972,24,665909,5797,50896,0,1644534539374,Asia,https://disease.sh/assets/img/flags/az.png
-Bahamas,24.25,-76.0,32833,0,753,0,25181,0,6899,9,1644534540057,North America,https://disease.sh/assets/img/flags/bs.png
-Bahrain,26.0,50.55,448166,6104,1419,1,386666,6330,60081,21,1644534539480,Asia,https://disease.sh/assets/img/flags/bh.png
-Bangladesh,24.0,90.0,1894535,7264,28744,41,1644628,11046,221163,1516,1644534539261,Asia,https://disease.sh/assets/img/flags/bd.png
-Barbados,13.1667,-59.5333,50477,519,291,2,38194,1357,11992,0,1644534539968,North America,https://disease.sh/assets/img/flags/bb.png
-Belarus,53.0,28.0,805651,8463,6204,14,792007,8358,7440,0,1644534539365,Europe,https://disease.sh/assets/img/flags/by.png
-Belgium,50.8333,4.0,3386223,22333,29497,68,2239193,15150,1117533,433,1644534539080,Europe,https://disease.sh/assets/img/flags/be.png
-Belize,17.25,-88.75,54758,0,631,0,48948,0,5179,4,1644534539964,North America,https://disease.sh/assets/img/flags/bz.png
-Benin,9.5,2.25,26498,0,163,0,25506,0,829,5,1644534540064,Africa,https://disease.sh/assets/img/flags/bj.png
-Bermuda,32.3333,-64.75,11058,0,119,0,10628,0,311,0,1644534540087,North America,https://disease.sh/assets/img/flags/bm.png
-Bhutan,27.5,90.5,6779,131,5,1,4562,136,2212,0,1644534540162,Asia,https://disease.sh/assets/img/flags/bt.png
-Bolivia,-17.0,-65.0,878922,1783,21219,20,740050,3937,117653,220,1644534539361,South America,https://disease.sh/assets/img/flags/bo.png
-Bosnia,44.0,18.0,361189,1313,14938,41,192218,0,154033,0,1644534539568,Europe,https://disease.sh/assets/img/flags/ba.png
-Botswana,-22.0,24.0,257167,0,2593,0,249082,0,5492,1,1644534539664,Africa,https://disease.sh/assets/img/flags/bw.png
-Brazil,-10.0,-55.0,27119500,159347,636017,828,23303192,0,3180291,8318,1644534538559,South America,https://disease.sh/assets/img/flags/br.png
-British Virgin Islands,18.5,-64.5,5839,0,51,0,0,0,5788,12,1644534540164,North America,https://disease.sh/assets/img/flags/vg.png
-Brunei,4.5,114.6667,19473,628,98,0,16414,124,2961,3,1644534540072,Asia,https://disease.sh/assets/img/flags/bn.png
-Bulgaria,43.0,25.0,1025129,6278,34228,76,728992,6645,261909,601,1644534539284,Europe,https://disease.sh/assets/img/flags/bg.png
-Burkina Faso,13.0,-2.0,20693,0,375,0,20254,0,64,0,1644534540071,Africa,https://disease.sh/assets/img/flags/bf.png
-Burundi,-3.5,30.0,37756,0,38,0,773,0,36945,0,1644534539975,Africa,https://disease.sh/assets/img/flags/bi.png
-Cabo Verde,16.0,-24.0,55827,7,398,0,55319,43,110,23,1644534539963,Africa,https://disease.sh/assets/img/flags/cv.png
-Cambodia,13.0,105.0,122468,262,3015,0,118420,76,1033,0,1644534539779,Asia,https://disease.sh/assets/img/flags/kh.png
-Cameroon,6.0,12.0,117676,0,1907,0,106050,0,9719,13,1644534539781,Africa,https://disease.sh/assets/img/flags/cm.png
-Canada,60.0,-95.0,3167844,9126,35204,104,2985700,18935,146940,1140,1644534539162,North America,https://disease.sh/assets/img/flags/ca.png
-Caribbean Netherlands,12.2,-68.26,7314,0,31,0,7063,0,220,0,1644534540159,North America,https://disease.sh/assets/img/flags/bq.png
-Cayman Islands,19.5,-80.5,15934,0,16,0,8553,0,7365,6,1644534540078,North America,https://disease.sh/assets/img/flags/ky.png
-Central African Republic,7.0,21.0,14110,0,110,0,6859,0,7141,2,1644534540082,Africa,https://disease.sh/assets/img/flags/cf.png
-Chad,15.0,19.0,7214,0,190,0,4874,0,2150,0,1644534540160,Africa,https://disease.sh/assets/img/flags/td.png
-Channel Islands,49.21,-2.13,45578,0,137,0,42299,0,3142,0,1644534539971,Europe,https://disease.sh/assets/img/flags/je.png
-Chile,-30.0,-71.0,2504168,36635,40273,162,1797279,3888,666616,720,1644534539177,South America,https://disease.sh/assets/img/flags/cl.png
-China,35.0,105.0,106663,29,4636,0,100599,96,1428,4,1644534540186,Asia,https://disease.sh/assets/img/flags/cn.png
-Colombia,4.0,-72.0,6002570,8269,136583,179,5804357,12298,61630,342,1644534538966,South America,https://disease.sh/assets/img/flags/co.png
-Comoros,-12.1667,44.25,7989,11,160,0,7672,2,157,0,1644534540095,Africa,https://disease.sh/assets/img/flags/km.png
-Congo,-1.0,15.0,23854,0,375,0,20178,0,3301,0,1644534540067,Africa,https://disease.sh/assets/img/flags/cg.png
-Costa Rica,10.0,-84.0,745949,0,7730,0,587261,0,150958,140,1644534539371,North America,https://disease.sh/assets/img/flags/cr.png
-Croatia,45.1667,15.5,1004804,6341,14329,48,944129,7477,46346,173,1644534539285,Europe,https://disease.sh/assets/img/flags/hr.png
-Cuba,21.5,-80.0,1057797,951,8454,4,1043768,1495,5575,48,1644534539283,North America,https://disease.sh/assets/img/flags/cu.png
-Curaçao,12.15,-68.97,38073,0,248,0,36619,0,1206,3,1644534539974,North America,https://disease.sh/assets/img/flags/cw.png
-Cyprus,35.0,33.0,283458,2815,762,1,124370,0,158326,60,1644534539579,Asia,https://disease.sh/assets/img/flags/cy.png
-Czechia,49.75,15.5,3340318,29059,37660,18,2986523,18009,316135,227,1644534539159,Europe,https://disease.sh/assets/img/flags/cz.png
-Côte d'Ivoire,8.0,-5.0,81005,0,787,0,78780,0,1438,0,1644534539857,Africa,https://disease.sh/assets/img/flags/ci.png
-DRC,0.0,25.0,85708,0,1316,0,50930,0,33462,0,1644534539785,Africa,https://disease.sh/assets/img/flags/cd.png
-Denmark,56.0,10.0,2096530,50542,3977,29,1512930,47893,579623,33,1644534539260,Europe,https://disease.sh/assets/img/flags/dk.png
-Diamond Princess,0.0,0.0,712,0,13,0,699,0,0,0,1644534540172,,https://disease.sh/assets/img/flags/unknown.png
-Djibouti,11.5,43.0,15529,2,189,0,15317,10,23,0,1644534540080,Africa,https://disease.sh/assets/img/flags/dj.png
-Dominica,15.4167,-61.3333,10190,117,53,0,9206,110,931,0,1644534540089,North America,https://disease.sh/assets/img/flags/dm.png
-Dominican Republic,19.0,-70.6667,567085,1223,4339,3,557208,0,5538,80,1644534539464,North America,https://disease.sh/assets/img/flags/do.png
-Ecuador,-2.0,-77.5,769149,0,34739,0,0,0,734410,759,1644534539368,South America,https://disease.sh/assets/img/flags/ec.png
-Egypt,27.0,30.0,446308,0,23110,0,380028,0,43170,122,1644534539481,Africa,https://disease.sh/assets/img/flags/eg.png
-El Salvador,13.8333,-88.9167,135109,0,3967,0,120327,0,10815,56,1644534539777,North America,https://disease.sh/assets/img/flags/sv.png
-Equatorial Guinea,2.0,10.0,15850,0,182,0,15539,0,129,5,1644534540079,Africa,https://disease.sh/assets/img/flags/gq.png
-Eritrea,15.0,39.0,9652,0,102,0,9411,0,139,0,1644534540090,Africa,https://disease.sh/assets/img/flags/er.png
-Estonia,59.0,26.0,405101,6584,2095,7,293167,4288,109839,18,1644534539485,Europe,https://disease.sh/assets/img/flags/ee.png
-Ethiopia,8.0,38.0,467153,152,7407,10,408613,3406,51133,188,1644534539475,Africa,https://disease.sh/assets/img/flags/et.png
-Falkland Islands (Malvinas),-51.75,-59.0,89,0,0,0,0,0,89,0,1644534540175,South America,https://disease.sh/assets/img/flags/fk.png
-Faroe Islands,62.0,-7.0,26288,663,22,2,7693,0,18573,5,1644534540065,Europe,https://disease.sh/assets/img/flags/fo.png
-Fiji,-18.0,175.0,63398,0,816,0,61470,0,1112,0,1644534539868,Australia-Oceania,https://disease.sh/assets/img/flags/fj.png
-Finland,64.0,26.0,559587,12805,2141,15,46000,0,511446,37,1644534539465,Europe,https://disease.sh/assets/img/flags/fi.png
-France,46.0,2.0,21372278,153025,134207,310,15867601,825060,5370470,3622,1644534538563,Europe,https://disease.sh/assets/img/flags/fr.png
-French Guiana,4.0,-53.0,77088,86,384,1,11254,0,65450,14,1644534539859,South America,https://disease.sh/assets/img/flags/gf.png
-French Polynesia,-15.0,-140.0,51723,0,636,0,0,0,51087,7,1644534539967,Australia-Oceania,https://disease.sh/assets/img/flags/pf.png
-Gabon,-1.0,11.75,47399,0,302,0,43508,0,3589,4,1644534539969,Africa,https://disease.sh/assets/img/flags/ga.png
-Gambia,13.4667,-16.5667,11911,0,365,0,11461,0,85,4,1644534540084,Africa,https://disease.sh/assets/img/flags/gm.png
-Georgia,42.0,43.5,1398059,22444,15404,53,1154476,13245,228179,0,1644534539271,Asia,https://disease.sh/assets/img/flags/ge.png
-Germany,51.0,9.0,11897002,247128,120196,224,8487100,113200,3289706,2274,1644534538757,Europe,https://disease.sh/assets/img/flags/de.png
-Ghana,8.0,-2.0,157751,0,1419,0,155322,0,1010,3,1644534539773,Africa,https://disease.sh/assets/img/flags/gh.png
-Gibraltar,36.1833,-5.3667,14168,129,101,0,12850,93,1217,3,1644534540081,Europe,https://disease.sh/assets/img/flags/gi.png
-Greece,39.0,22.0,2129153,19154,24507,97,1885470,19506,219176,516,1644534539259,Europe,https://disease.sh/assets/img/flags/gr.png
-Greenland,72.0,-40.0,11333,512,7,1,2761,0,8565,15,1644534540085,North America,https://disease.sh/assets/img/flags/gl.png
-Grenada,12.1167,-61.6667,13102,61,212,0,12341,25,549,1,1644534540083,North America,https://disease.sh/assets/img/flags/gd.png
-Guadeloupe,16.25,-61.5833,119534,0,808,0,2250,0,116476,21,1644534539780,North America,https://disease.sh/assets/img/flags/gp.png
-Guatemala,15.5,-90.25,720802,0,16542,0,658366,0,45894,5,1644534539378,North America,https://disease.sh/assets/img/flags/gt.png
-Guinea,11.0,-10.0,36314,17,434,2,32662,26,3218,49,1644534539979,Africa,https://disease.sh/assets/img/flags/gn.png
-Guinea-Bissau,12.0,-15.0,7813,0,158,0,6863,0,792,6,1644534540096,Africa,https://disease.sh/assets/img/flags/gw.png
-Guyana,5.0,-59.0,61901,0,1188,0,57309,0,3404,17,1644534539958,South America,https://disease.sh/assets/img/flags/gy.png
-Haiti,19.0,-72.4167,29888,0,806,0,24986,0,4096,0,1644534540060,North America,https://disease.sh/assets/img/flags/ht.png
-Holy See (Vatican City State),41.9,12.45,29,0,0,0,28,0,1,0,1644534540181,Europe,https://disease.sh/assets/img/flags/va.png
-Honduras,15.0,-86.5,402329,0,10559,0,127289,0,264481,105,1644534539564,North America,https://disease.sh/assets/img/flags/hn.png
-Hong Kong,22.25,114.1667,18794,986,216,1,13232,0,5346,0,1644534540075,Asia,https://disease.sh/assets/img/flags/hk.png
-Hungary,47.0,20.0,1684432,12885,42269,99,1410550,10413,231613,198,1644534539266,Europe,https://disease.sh/assets/img/flags/hu.png
-Iceland,65.0,-18.0,83942,2254,52,2,74157,2326,9733,2,1644534539788,Europe,https://disease.sh/assets/img/flags/is.png
-India,20.0,77.0,42534048,55988,507208,659,41320134,139383,706706,8944,1644534538476,Asia,https://disease.sh/assets/img/flags/in.png
-Indonesia,-5.0,120.0,4667554,40618,144858,74,4234510,18182,288186,1365,1644534539064,Asia,https://disease.sh/assets/img/flags/id.png
-Iran,32.0,53.0,6730608,33681,133294,130,6238083,22174,359231,3097,1644534538963,Asia,https://disease.sh/assets/img/flags/ir.png
-Iraq,33.0,44.0,2267745,4220,24626,26,2172866,5504,70253,230,1644534539181,Asia,https://disease.sh/assets/img/flags/iq.png
-Ireland,53.0,-8.0,1236188,5649,6291,0,1015012,19227,214885,63,1644534539275,Europe,https://disease.sh/assets/img/flags/ie.png
-Isle of Man,54.23,-4.55,22014,0,73,0,21638,0,303,0,1644534540068,Europe,https://disease.sh/assets/img/flags/im.png
-Israel,31.5,34.75,3347657,31422,9399,62,3011502,33142,326756,1159,1644534539158,Asia,https://disease.sh/assets/img/flags/il.png
-Italy,42.8333,12.8333,11923631,75861,150221,325,9960136,137221,1813274,1322,1644534538667,Europe,https://disease.sh/assets/img/flags/it.png
-Jamaica,18.25,-77.5,126589,152,2708,2,72219,242,51662,25,1644534539779,North America,https://disease.sh/assets/img/flags/jm.png
-Japan,36.0,138.0,3566188,97946,19742,155,2674869,74560,871577,1270,1644534539076,Asia,https://disease.sh/assets/img/flags/jp.png
-Jordan,31.0,36.0,1417890,21460,13431,22,1217112,11294,187347,1232,1644534539269,Asia,https://disease.sh/assets/img/flags/jo.png
-Kazakhstan,48.0,68.0,1283171,3329,13417,20,1197805,9334,71949,528,1644534539273,Asia,https://disease.sh/assets/img/flags/kz.png
-Kenya,1.0,38.0,322334,60,5626,4,300305,3823,16403,8,1644534539574,Africa,https://disease.sh/assets/img/flags/ke.png
-Kiribati,1.4167,173.0,2235,62,0,0,0,0,2235,0,1644534540170,Australia-Oceania,https://disease.sh/assets/img/flags/ki.png
-Kuwait,29.3375,47.6581,593889,3324,2517,3,538421,5495,52951,91,1644534539462,Asia,https://disease.sh/assets/img/flags/kw.png
-Kyrgyzstan,41.0,75.0,199821,107,2917,4,191958,279,4946,131,1644534539765,Asia,https://disease.sh/assets/img/flags/kg.png
-Lao People's Democratic Republic,18.0,105.0,138007,450,584,1,7660,0,129763,0,1644534539776,Asia,https://disease.sh/assets/img/flags/la.png
-Latvia,57.0,25.0,488329,11599,4987,9,358975,18198,124367,74,1644534539473,Europe,https://disease.sh/assets/img/flags/lv.png
-Lebanon,33.8333,35.8333,999155,6060,9789,20,682977,0,306389,186,1644534539286,Asia,https://disease.sh/assets/img/flags/lb.png
-Lesotho,-29.5,28.5,32350,0,695,0,22507,0,9148,0,1644534540058,Africa,https://disease.sh/assets/img/flags/ls.png
-Liberia,6.5,-9.5,7346,0,290,0,5747,0,1309,2,1644534540158,Africa,https://disease.sh/assets/img/flags/lr.png
-Libyan Arab Jamahiriya,25.0,17.0,463321,3773,6107,11,409716,2999,47498,129,1644534539477,Africa,https://disease.sh/assets/img/flags/ly.png
-Liechtenstein,47.1667,9.5333,10238,145,74,0,9658,85,506,3,1644534540088,Europe,https://disease.sh/assets/img/flags/li.png
-Lithuania,56.0,24.0,787552,10179,8046,7,673860,10890,105646,86,1644534539367,Europe,https://disease.sh/assets/img/flags/lt.png
-Luxembourg,49.75,6.1667,172502,1050,968,2,146801,3069,24733,9,1644534539767,Europe,https://disease.sh/assets/img/flags/lu.png
-MS Zaandam,0.0,0.0,9,0,2,0,7,0,0,0,1644534540182,,https://disease.sh/assets/img/flags/unknown.png
-Macao,22.1667,113.55,79,0,0,0,79,0,0,0,1644534540176,Asia,https://disease.sh/assets/img/flags/mo.png
-Macedonia,41.8333,22.0,283547,1400,8686,28,263196,1455,11665,0,1644534539578,Europe,https://disease.sh/assets/img/flags/mk.png
-Madagascar,-20.0,47.0,61434,0,1307,0,54687,0,5440,224,1644534539959,Africa,https://disease.sh/assets/img/flags/mg.png
-Malawi,-13.5,34.0,84936,21,2586,6,71537,182,10813,67,1644534539787,Africa,https://disease.sh/assets/img/flags/mw.png
-Malaysia,2.5,112.5,2975422,19090,32075,10,2835464,5712,107883,158,1644534539166,Asia,https://disease.sh/assets/img/flags/my.png
-Maldives,3.25,73.0,155917,1406,287,1,139409,1292,16221,25,1644534539775,Asia,https://disease.sh/assets/img/flags/mv.png
-Mali,17.0,-4.0,30251,15,715,0,27110,24,2426,0,1644534540059,Africa,https://disease.sh/assets/img/flags/ml.png
-Malta,35.8333,14.5833,69651,118,576,4,66722,270,2353,4,1644534539865,Europe,https://disease.sh/assets/img/flags/mt.png
-Marshall Islands,9.0,168.0,7,0,0,0,7,0,0,0,1644534540184,Australia-Oceania,https://disease.sh/assets/img/flags/mh.png
-Martinique,14.6667,-61.0,101298,0,854,0,104,0,100340,26,1644534539783,North America,https://disease.sh/assets/img/flags/mq.png
-Mauritania,20.0,-12.0,58542,15,971,0,57099,117,472,30,1644534539962,Africa,https://disease.sh/assets/img/flags/mr.png
-Mauritius,-20.2833,57.55,27381,0,762,0,25684,0,935,0,1644534540061,Africa,https://disease.sh/assets/img/flags/mu.png
-Mayotte,-12.8333,45.1667,36556,0,187,0,2964,0,33405,0,1644534539978,Africa,https://disease.sh/assets/img/flags/yt.png
-Mexico,23.0,-102.0,5192008,24898,310627,743,4405695,31115,475686,4798,1644534539062,North America,https://disease.sh/assets/img/flags/mx.png
-Micronesia,6.9167,158.25,1,0,0,0,1,0,0,0,1644534540186,Australia-Oceania,https://disease.sh/assets/img/flags/fm.png
-Moldova,47.0,29.0,477419,2871,10866,29,423937,4931,42616,265,1644534539474,Europe,https://disease.sh/assets/img/flags/md.png
-Monaco,43.7333,7.4,8956,34,49,0,8630,30,277,4,1644534540094,Europe,https://disease.sh/assets/img/flags/mc.png
-Mongolia,46.0,105.0,453053,1230,2137,3,313256,0,137660,192,1644534539478,Asia,https://disease.sh/assets/img/flags/mn.png
-Montenegro,42.0,19.0,225253,460,2624,2,218971,684,3658,60,1644534539677,Europe,https://disease.sh/assets/img/flags/me.png
-Montserrat,16.75,-62.2,163,0,2,0,161,0,0,0,1644534540174,North America,https://disease.sh/assets/img/flags/ms.png
-Morocco,32.0,-5.0,1152414,1333,15727,29,1115118,2197,21569,293,1644534539281,Africa,https://disease.sh/assets/img/flags/ma.png
-Mozambique,-18.25,35.0,224559,65,2188,2,217951,276,4420,13,1644534539758,Africa,https://disease.sh/assets/img/flags/mz.png
-Myanmar,22.0,98.0,541904,1307,19310,0,514833,226,7761,0,1644534539469,Asia,https://disease.sh/assets/img/flags/mm.png
-Namibia,-22.0,17.0,156519,0,3984,0,150383,0,2152,8,1644534539774,Africa,https://disease.sh/assets/img/flags/na.png
-Nepal,28.0,84.0,971475,1013,11864,12,930607,2238,29004,100,1644534539288,Asia,https://disease.sh/assets/img/flags/np.png
-Netherlands,52.5,5.75,5523354,86779,21358,15,3378733,29032,2123263,209,1644534538969,Europe,https://disease.sh/assets/img/flags/nl.png
-New Caledonia,-21.5,165.5,33996,1101,284,0,19471,205,14241,36,1644534539980,Australia-Oceania,https://disease.sh/assets/img/flags/nc.png
-New Zealand,-41.0,174.0,18837,334,53,0,15499,84,3285,0,1644534540074,Australia-Oceania,https://disease.sh/assets/img/flags/nz.png
-Nicaragua,13.0,-85.0,17791,0,218,0,4225,0,13348,0,1644534540076,North America,https://disease.sh/assets/img/flags/ni.png
-Niger,16.0,8.0,8703,3,303,0,8229,6,171,1,1644534540095,Africa,https://disease.sh/assets/img/flags/ne.png
-Nigeria,10.0,8.0,253875,0,3139,0,230221,0,20515,11,1644534539671,Africa,https://disease.sh/assets/img/flags/ng.png
-Norway,62.0,10.0,962407,0,1512,0,88952,0,871943,26,1644534539357,Europe,https://disease.sh/assets/img/flags/no.png
-Oman,21.0,57.0,360999,1743,4195,5,333906,2433,22898,73,1644534539569,Asia,https://disease.sh/assets/img/flags/om.png
-Pakistan,30.0,70.0,1474075,3914,29648,47,1359757,5459,84670,1716,1644534539267,Asia,https://disease.sh/assets/img/flags/pk.png
-Palau,7.5,134.5,3045,89,0,0,1609,92,1436,22,1644534540169,Australia-Oceania,https://disease.sh/assets/img/flags/pw.png
-Palestine,32.0,35.25,545673,0,4946,0,487635,0,53092,116,1644534539467,Asia,https://disease.sh/assets/img/flags/ps.png
-Panama,9.0,-80.0,735235,0,7898,0,694816,0,32521,83,1644534539373,North America,https://disease.sh/assets/img/flags/pa.png
-Papua New Guinea,-6.0,147.0,38222,239,610,13,36311,148,1301,7,1644534539972,Australia-Oceania,https://disease.sh/assets/img/flags/pg.png
-Paraguay,-23.0,-58.0,618815,2904,17801,50,555799,5995,45215,190,1644534539461,South America,https://disease.sh/assets/img/flags/py.png
-Peru,-10.0,-76.0,3397637,0,207536,0,0,0,3190101,1365,1644534539079,South America,https://disease.sh/assets/img/flags/pe.png
-Philippines,13.0,122.0,3627575,4575,54783,1,3479485,7504,93307,312,1644534539072,Asia,https://disease.sh/assets/img/flags/ph.png
-Poland,52.0,20.0,5313111,42095,107466,262,4451403,44623,754242,1169,1644534539059,Europe,https://disease.sh/assets/img/flags/pl.png
-Portugal,39.5,-8.0,3025421,27651,20401,47,2388235,17526,616785,168,1644534539164,Europe,https://disease.sh/assets/img/flags/pt.png
-Qatar,25.5,51.25,348924,783,655,2,338138,1358,10131,43,1644534539573,Asia,https://disease.sh/assets/img/flags/qa.png
-Romania,46.0,25.0,2508860,26466,61231,138,2060839,22123,386790,1146,1644534539173,Europe,https://disease.sh/assets/img/flags/ro.png
-Russia,60.0,100.0,13527845,197076,338091,701,10909397,106092,2280357,2300,1644534538660,Europe,https://disease.sh/assets/img/flags/ru.png
-Rwanda,-2.0,30.0,129210,0,1449,0,45522,0,82239,1,1644534539778,Africa,https://disease.sh/assets/img/flags/rw.png
-Réunion,-21.1,55.6,256787,0,565,0,216172,0,40050,60,1644534539666,Africa,https://disease.sh/assets/img/flags/re.png
-S. Korea,37.0,127.5,1185361,54113,6963,20,735348,15721,443050,282,1644534539280,Asia,https://disease.sh/assets/img/flags/kr.png
-Saint Helena,-15.9333,-5.7,2,0,0,0,2,0,0,0,1644534540185,Africa,https://disease.sh/assets/img/flags/sh.png
-Saint Kitts and Nevis,17.3333,-62.75,5492,0,39,0,5294,0,159,1,1644534540166,North America,https://disease.sh/assets/img/flags/kn.png
-Saint Lucia,13.8833,-61.1333,21831,0,342,0,19700,0,1789,0,1644534540069,North America,https://disease.sh/assets/img/flags/lc.png
-Saint Martin,18.11,-63.03,9439,0,61,0,1399,0,7979,7,1644534540093,North America,https://disease.sh/assets/img/flags/mf.png
-Saint Pierre Miquelon,46.8333,-56.3333,1009,7,1,0,951,25,57,1,1644534540171,North America,https://disease.sh/assets/img/flags/pm.png
-Saint Vincent and the Grenadines,13.25,-61.2,6715,0,101,0,6482,0,132,17,1644534540162,North America,https://disease.sh/assets/img/flags/vc.png
-Samoa,-13.5833,-172.3333,33,0,0,0,3,0,30,0,1644534540178,Australia-Oceania,https://disease.sh/assets/img/flags/ws.png
-San Marino,43.7667,12.4167,13571,0,109,0,12258,0,1204,2,1644534540082,Europe,https://disease.sh/assets/img/flags/sm.png
-Sao Tome and Principe,1.0,7.0,5913,0,71,0,5812,0,30,0,1644534540163,Africa,https://disease.sh/assets/img/flags/st.png
-Saudi Arabia,25.0,45.0,722002,2866,8965,3,681711,3379,31326,1052,1644534539376,Asia,https://disease.sh/assets/img/flags/sa.png
-Senegal,14.0,-14.0,85308,26,1956,0,82886,248,466,5,1644534539786,Africa,https://disease.sh/assets/img/flags/sn.png
-Serbia,44.0,21.0,1817207,11121,14234,63,1530729,12101,272244,181,1644534539263,Europe,https://disease.sh/assets/img/flags/rs.png
-Seychelles,-4.5833,55.6667,38120,0,157,0,36737,0,1226,0,1644534539973,Africa,https://disease.sh/assets/img/flags/sc.png
-Sierra Leone,8.5,-11.5,7648,10,125,0,0,0,7523,0,1644534540157,Africa,https://disease.sh/assets/img/flags/sl.png
-Singapore,1.3667,103.8,439640,10686,882,1,397699,8371,41059,13,1644534539483,Asia,https://disease.sh/assets/img/flags/sg.png
-Sint Maarten,18.02,-63.06,9449,0,83,0,9065,0,301,10,1644534540090,North America,https://disease.sh/assets/img/flags/sx.png
-Slovakia,48.6667,19.5,1187002,20160,18040,26,939619,14233,229343,234,1644534539277,Europe,https://disease.sh/assets/img/flags/sk.png
-Slovenia,46.0,15.0,828508,12126,6044,16,650724,14210,171740,141,1644534539364,Europe,https://disease.sh/assets/img/flags/si.png
-Solomon Islands,-8.0,159.0,3795,0,40,0,1025,0,2730,50,1644534540167,Australia-Oceania,https://disease.sh/assets/img/flags/sb.png
-Somalia,10.0,49.0,26203,0,1340,0,13182,0,11681,0,1644534540066,Africa,https://disease.sh/assets/img/flags/so.png
-South Africa,-29.0,24.0,3634811,3169,96705,203,3494016,2390,44090,546,1644534539070,Africa,https://disease.sh/assets/img/flags/za.png
-South Sudan,6.8769,31.3069,16873,0,137,0,13077,0,3659,1,1644534540078,Africa,https://disease.sh/assets/img/flags/ss.png
-Spain,40.0,-4.0,10555196,53055,95606,393,7264623,97183,3194967,1633,1644534538761,Europe,https://disease.sh/assets/img/flags/es.png
-Sri Lanka,7.0,81.0,624545,1297,15723,31,593975,373,14847,0,1644534539379,Asia,https://disease.sh/assets/img/flags/lk.png
-St. Barth,17.89,-62.82,3435,0,6,0,0,0,3429,0,1644534540168,North America,https://disease.sh/assets/img/flags/bl.png
-Sudan,15.0,30.0,59345,0,3758,0,40329,0,15258,0,1644534539960,Africa,https://disease.sh/assets/img/flags/sd.png
-Suriname,4.0,-56.0,76498,259,1291,3,49302,1,25905,11,1644534539860,South America,https://disease.sh/assets/img/flags/sr.png
-Swaziland,-26.5,31.5,68727,25,1381,0,67085,25,261,11,1644534539867,Africa,https://disease.sh/assets/img/flags/sz.png
-Sweden,62.0,15.0,2389605,0,16360,0,1494707,22890,878538,93,1644534539180,Europe,https://disease.sh/assets/img/flags/se.png
-Switzerland,47.0,8.0,2505007,15823,13039,9,1575405,34578,916563,207,1644534539175,Europe,https://disease.sh/assets/img/flags/ch.png
-Syrian Arab Republic,35.0,38.0,52243,0,3017,0,41577,0,7649,0,1644534539965,Asia,https://disease.sh/assets/img/flags/sy.png
-Taiwan,23.5,121.0,19376,83,851,0,17257,67,1268,0,1644534540073,Asia,https://disease.sh/assets/img/flags/tw.png
-Tajikistan,39.0,71.0,17367,6,124,0,17218,5,25,0,1644534540077,Asia,https://disease.sh/assets/img/flags/tj.png
-Tanzania,-6.0,35.0,33436,0,792,0,0,0,32644,7,1644534539981,Africa,https://disease.sh/assets/img/flags/tz.png
-Thailand,15.0,100.0,2545873,14822,22367,20,2418380,8503,105126,542,1644534539171,Asia,https://disease.sh/assets/img/flags/th.png
-Timor-Leste,-8.55,125.5167,21158,216,122,0,19828,9,1208,19,1644534540070,Asia,https://disease.sh/assets/img/flags/tl.png
-Togo,8.0,1.1667,36620,8,270,0,34223,111,2127,0,1644534539977,Africa,https://disease.sh/assets/img/flags/tg.png
-Tonga,-20.0,-175.0,66,31,0,0,2,0,64,0,1644534540177,Australia-Oceania,https://disease.sh/assets/img/flags/to.png
-Trinidad and Tobago,11.0,-61.0,117525,0,3495,0,91414,0,22616,22,1644534539782,North America,https://disease.sh/assets/img/flags/tt.png
-Tunisia,34.0,9.0,958549,3823,26941,52,867338,8608,64270,200,1644534539359,Africa,https://disease.sh/assets/img/flags/tn.png
-Turkey,39.0,35.0,12653276,98602,89741,264,11755917,87932,807618,1128,1644534538663,Asia,https://disease.sh/assets/img/flags/tr.png
-Turks and Caicos Islands,21.75,-71.5833,5806,0,35,0,5649,0,122,4,1644534540165,North America,https://disease.sh/assets/img/flags/tc.png
-UAE,24.0,54.0,864102,1588,2278,5,793619,2301,68205,0,1644534539362,Asia,https://disease.sh/assets/img/flags/ae.png
-UK,54.0,-2.0,18000119,0,158953,0,15596741,0,2244425,430,1644534538566,Europe,https://disease.sh/assets/img/flags/gb.png
-USA,38.0,-97.0,78925008,109519,937632,1609,49332919,115565,28654457,17937,1644534538473,North America,https://disease.sh/assets/img/flags/us.png
-Uganda,1.0,32.0,162443,0,3565,0,99487,0,59391,108,1644534539772,Africa,https://disease.sh/assets/img/flags/ug.png
-Ukraine,49.0,32.0,4421741,41694,102167,280,3729976,16628,589598,177,1644534539066,Europe,https://disease.sh/assets/img/flags/ua.png
-Uruguay,-33.0,-56.0,758366,8812,6710,14,693813,10294,57843,160,1644534539370,South America,https://disease.sh/assets/img/flags/uy.png
-Uzbekistan,41.0,64.0,231871,692,1595,3,214468,732,15808,23,1644534539673,Asia,https://disease.sh/assets/img/flags/uz.png
-Vanuatu,-16.0,167.0,7,0,1,0,6,0,0,0,1644534540183,Australia-Oceania,https://disease.sh/assets/img/flags/vu.png
-Venezuela,8.0,-66.0,500545,0,5511,0,479721,0,15313,230,1644534539471,South America,https://disease.sh/assets/img/flags/ve.png
-Vietnam,21.0,105.8,2430683,26032,38688,74,2206594,9992,185401,2699,1644534539178,Asia,https://disease.sh/assets/img/flags/vn.png
-Wallis and Futuna,-13.3,-176.2,454,0,7,0,438,0,9,0,1644534540173,Australia-Oceania,https://disease.sh/assets/img/flags/wf.png
-Western Sahara,24.5,-13.0,10,0,1,0,8,0,1,0,1644534540181,Africa,https://disease.sh/assets/img/flags/eh.png
-Yemen,15.0,48.0,11166,0,2028,0,7183,0,1955,23,1644534540086,Asia,https://disease.sh/assets/img/flags/ye.png
-Zambia,-15.0,30.0,308556,506,3935,1,301709,466,2912,33,1644534539576,Africa,https://disease.sh/assets/img/flags/zm.png
-Zimbabwe,-20.0,30.0,230880,0,5367,0,222263,0,3250,12,1644534539675,Africa,https://disease.sh/assets/img/flags/zw.png
+Afghanistan,33.0,65.0,169448,845,7477,11,148090,246,13881,1124,1644540327961,Asia,https://disease.sh/assets/img/flags/af.png
+Albania,41.0,20.0,267020,604,3402,3,252982,1505,10636,23,1644540327774,Europe,https://disease.sh/assets/img/flags/al.png
+Algeria,28.0,3.0,260191,518,6690,12,173476,416,80025,35,1644540327861,Africa,https://disease.sh/assets/img/flags/dz.png
+Andorra,42.5,1.6,37074,85,148,0,35753,112,1173,14,1644540328263,Europe,https://disease.sh/assets/img/flags/ad.png
+Angola,-12.5,18.5,98474,21,1897,1,96162,22,415,1,1644540328068,Africa,https://disease.sh/assets/img/flags/ao.png
+Anguilla,18.25,-63.1667,2458,0,9,0,2435,0,14,4,1644540328385,North America,https://disease.sh/assets/img/flags/ai.png
+Antigua and Barbuda,17.05,-61.8,6853,0,131,0,6400,0,322,1,1644540328375,North America,https://disease.sh/assets/img/flags/ag.png
+Argentina,-34.0,-64.0,8700437,25110,123707,263,8327294,44762,249436,2321,1644540326771,South America,https://disease.sh/assets/img/flags/ar.png
+Armenia,40.0,45.0,399727,2842,8123,15,362004,2548,29600,0,1644540327758,Asia,https://disease.sh/assets/img/flags/am.png
+Aruba,12.5,-69.9667,33436,30,196,0,33092,19,148,8,1644540328269,North America,https://disease.sh/assets/img/flags/aw.png
+Australia,-27.0,133.0,2822238,25877,4422,56,2568696,0,249120,271,1644540327362,Australia-Oceania,https://disease.sh/assets/img/flags/au.png
+Austria,47.3333,13.3333,2184873,35250,14315,22,1828444,38717,342114,191,1644540327376,Europe,https://disease.sh/assets/img/flags/at.png
+Azerbaijan,40.5,47.5,725777,7632,8972,24,665909,5797,50896,0,1644540327560,Asia,https://disease.sh/assets/img/flags/az.png
+Bahamas,24.25,-76.0,32871,38,756,3,25300,119,6815,9,1644540328270,North America,https://disease.sh/assets/img/flags/bs.png
+Bahrain,26.0,50.55,448166,6104,1419,1,386666,6330,60081,21,1644540327674,Asia,https://disease.sh/assets/img/flags/bh.png
+Bangladesh,24.0,90.0,1894535,7264,28744,41,1644628,11046,221163,1516,1644540327460,Asia,https://disease.sh/assets/img/flags/bd.png
+Barbados,13.1667,-59.5333,50477,519,291,2,38194,1357,11992,0,1644540328169,North America,https://disease.sh/assets/img/flags/bb.png
+Belarus,53.0,28.0,805651,8463,6204,14,792007,8358,7440,0,1644540327492,Europe,https://disease.sh/assets/img/flags/by.png
+Belgium,50.8333,4.0,3386223,22333,29497,68,2239193,15150,1117533,433,1644540327068,Europe,https://disease.sh/assets/img/flags/be.png
+Belize,17.25,-88.75,54973,215,631,0,49625,677,4717,4,1644540328164,North America,https://disease.sh/assets/img/flags/bz.png
+Benin,9.5,2.25,26498,0,163,0,25506,0,829,5,1644540328275,Africa,https://disease.sh/assets/img/flags/bj.png
+Bermuda,32.3333,-64.75,11146,88,120,1,10754,126,272,0,1644540328365,North America,https://disease.sh/assets/img/flags/bm.png
+Bhutan,27.5,90.5,6779,131,5,1,4562,136,2212,0,1644540328376,Asia,https://disease.sh/assets/img/flags/bt.png
+Bolivia,-17.0,-65.0,878922,1783,21219,20,740050,3937,117653,220,1644540327487,South America,https://disease.sh/assets/img/flags/bo.png
+Bosnia,44.0,18.0,361189,1313,14938,41,192218,0,154033,0,1644540327759,Europe,https://disease.sh/assets/img/flags/ba.png
+Botswana,-22.0,24.0,259655,2488,2597,4,253846,4764,3212,1,1644540327863,Africa,https://disease.sh/assets/img/flags/bw.png
+Brazil,-10.0,-55.0,27125512,165359,636111,922,23446849,143657,3042552,8318,1644540326757,South America,https://disease.sh/assets/img/flags/br.png
+British Virgin Islands,18.5,-64.5,5839,0,51,0,0,0,5788,12,1644540328378,North America,https://disease.sh/assets/img/flags/vg.png
+Brunei,4.5,114.6667,19473,628,98,0,16414,124,2961,3,1644540328285,Asia,https://disease.sh/assets/img/flags/bn.png
+Bulgaria,43.0,25.0,1025129,6278,34228,76,728992,6645,261909,601,1644540327476,Europe,https://disease.sh/assets/img/flags/bg.png
+Burkina Faso,13.0,-2.0,20693,0,375,0,20254,0,64,0,1644540328284,Africa,https://disease.sh/assets/img/flags/bf.png
+Burundi,-3.5,30.0,37756,0,38,0,773,0,36945,0,1644540328262,Africa,https://disease.sh/assets/img/flags/bi.png
+Cabo Verde,16.0,-24.0,55827,7,398,0,55319,43,110,23,1644540328163,Africa,https://disease.sh/assets/img/flags/cv.png
+Cambodia,13.0,105.0,122468,262,3015,0,118420,76,1033,0,1644540328063,Asia,https://disease.sh/assets/img/flags/kh.png
+Cameroon,6.0,12.0,117676,0,1907,0,106050,0,9719,13,1644540328066,Africa,https://disease.sh/assets/img/flags/cm.png
+Canada,60.0,-95.0,3170550,10540,35231,131,2988622,21857,146697,1140,1644540327168,North America,https://disease.sh/assets/img/flags/ca.png
+Caribbean Netherlands,12.2,-68.26,7314,0,31,0,7063,0,220,0,1644540328374,North America,https://disease.sh/assets/img/flags/bq.png
+Cayman Islands,19.5,-80.5,15934,0,16,0,8553,0,7365,6,1644540328357,North America,https://disease.sh/assets/img/flags/ky.png
+Central African Republic,7.0,21.0,14110,0,110,0,6859,0,7141,2,1644540328360,Africa,https://disease.sh/assets/img/flags/cf.png
+Chad,15.0,19.0,7214,0,190,0,4874,0,2150,0,1644540328374,Africa,https://disease.sh/assets/img/flags/td.png
+Channel Islands,49.21,-2.13,46018,440,137,0,42678,379,3203,0,1644540328171,Europe,https://disease.sh/assets/img/flags/je.png
+Chile,-30.0,-71.0,2504168,36635,40273,162,1797279,3888,666616,720,1644540327368,South America,https://disease.sh/assets/img/flags/cl.png
+China,35.0,105.0,106663,29,4636,0,100599,96,1428,4,1644540328464,Asia,https://disease.sh/assets/img/flags/cn.png
+Colombia,4.0,-72.0,6002570,8269,136583,179,5804357,12298,61630,342,1644540326859,South America,https://disease.sh/assets/img/flags/co.png
+Comoros,-12.1667,44.25,7989,11,160,0,7672,2,157,0,1644540328371,Africa,https://disease.sh/assets/img/flags/km.png
+Congo,-1.0,15.0,23860,6,375,0,20178,0,3307,0,1644540328277,Africa,https://disease.sh/assets/img/flags/cg.png
+Costa Rica,10.0,-84.0,751605,5656,7752,22,589231,1970,154622,143,1644540327497,North America,https://disease.sh/assets/img/flags/cr.png
+Croatia,45.1667,15.5,1004804,6341,14329,48,944129,7477,46346,173,1644540327478,Europe,https://disease.sh/assets/img/flags/hr.png
+Cuba,21.5,-80.0,1057797,951,8454,4,1043768,1495,5575,48,1644540327475,North America,https://disease.sh/assets/img/flags/cu.png
+Curaçao,12.15,-68.97,38172,99,249,1,36729,110,1194,3,1644540328259,North America,https://disease.sh/assets/img/flags/cw.png
+Cyprus,35.0,33.0,283458,2815,762,1,124370,0,158326,60,1644540327773,Asia,https://disease.sh/assets/img/flags/cy.png
+Czechia,49.75,15.5,3340318,29059,37660,18,2986523,18009,316135,227,1644540327163,Europe,https://disease.sh/assets/img/flags/cz.png
+Côte d'Ivoire,8.0,-5.0,81040,35,789,2,78844,64,1407,0,1644540328074,Africa,https://disease.sh/assets/img/flags/ci.png
+DRC,0.0,25.0,85743,35,1316,0,50930,0,33497,0,1644540328068,Africa,https://disease.sh/assets/img/flags/cd.png
+Denmark,56.0,10.0,2096530,50542,3977,29,1512930,47893,579623,33,1644540327458,Europe,https://disease.sh/assets/img/flags/dk.png
+Diamond Princess,0.0,0.0,712,0,13,0,699,0,0,0,1644540328388,,https://disease.sh/assets/img/flags/unknown.png
+Djibouti,11.5,43.0,15529,2,189,0,15317,10,23,0,1644540328359,Africa,https://disease.sh/assets/img/flags/dj.png
+Dominica,15.4167,-61.3333,10190,117,53,0,9206,110,931,0,1644540328366,North America,https://disease.sh/assets/img/flags/dm.png
+Dominican Republic,19.0,-70.6667,567085,1223,4339,3,557208,0,5538,80,1644540327571,North America,https://disease.sh/assets/img/flags/do.png
+Ecuador,-2.0,-77.5,781470,0,34854,0,0,0,746616,759,1644540327494,South America,https://disease.sh/assets/img/flags/ec.png
+Egypt,27.0,30.0,448497,2189,23172,62,382037,2009,43288,122,1644540327672,Africa,https://disease.sh/assets/img/flags/eg.png
+El Salvador,13.8333,-88.9167,135109,0,3975,8,120327,0,10807,56,1644540328058,North America,https://disease.sh/assets/img/flags/sv.png
+Equatorial Guinea,2.0,10.0,15850,0,182,0,15539,0,129,5,1644540328358,Africa,https://disease.sh/assets/img/flags/gq.png
+Eritrea,15.0,39.0,9652,0,102,0,9411,0,139,0,1644540328367,Africa,https://disease.sh/assets/img/flags/er.png
+Estonia,59.0,26.0,405101,6584,2095,7,293167,4288,109839,18,1644540327679,Europe,https://disease.sh/assets/img/flags/ee.png
+Ethiopia,8.0,38.0,467153,152,7407,10,408613,3406,51133,188,1644540327666,Africa,https://disease.sh/assets/img/flags/et.png
+Falkland Islands (Malvinas),-51.75,-59.0,89,0,0,0,0,0,89,0,1644540328393,South America,https://disease.sh/assets/img/flags/fk.png
+Faroe Islands,62.0,-7.0,26288,663,22,2,7693,0,18573,5,1644540328276,Europe,https://disease.sh/assets/img/flags/fo.png
+Fiji,-18.0,175.0,63398,0,816,0,61470,0,1112,0,1644540328080,Australia-Oceania,https://disease.sh/assets/img/flags/fj.png
+Finland,64.0,26.0,559587,12805,2141,15,46000,0,511446,37,1644540327572,Europe,https://disease.sh/assets/img/flags/fi.png
+France,46.0,2.0,21372278,153025,134207,310,15867601,825060,5370470,3622,1644540326759,Europe,https://disease.sh/assets/img/flags/fr.png
+French Guiana,4.0,-53.0,77088,86,384,1,11254,0,65450,14,1644540328075,South America,https://disease.sh/assets/img/flags/gf.png
+French Polynesia,-15.0,-140.0,51723,0,636,0,0,0,51087,7,1644540328167,Australia-Oceania,https://disease.sh/assets/img/flags/pf.png
+Gabon,-1.0,11.75,47399,0,302,0,43508,0,3589,4,1644540328170,Africa,https://disease.sh/assets/img/flags/ga.png
+Gambia,13.4667,-16.5667,11911,0,365,0,11461,0,85,4,1644540328363,Africa,https://disease.sh/assets/img/flags/gm.png
+Georgia,42.0,43.5,1398059,22444,15404,53,1154476,13245,228179,0,1644540327466,Asia,https://disease.sh/assets/img/flags/ge.png
+Germany,51.0,9.0,11897002,247128,120196,224,8487100,113200,3289706,2274,1644540326767,Europe,https://disease.sh/assets/img/flags/de.png
+Ghana,8.0,-2.0,157751,0,1419,0,155322,0,1010,3,1644540327967,Africa,https://disease.sh/assets/img/flags/gh.png
+Gibraltar,36.1833,-5.3667,14168,129,101,0,12850,93,1217,3,1644540328360,Europe,https://disease.sh/assets/img/flags/gi.png
+Greece,39.0,22.0,2129153,19154,24507,97,1885470,19506,219176,516,1644540327378,Europe,https://disease.sh/assets/img/flags/gr.png
+Greenland,72.0,-40.0,11333,512,7,1,2761,0,8565,15,1644540328363,North America,https://disease.sh/assets/img/flags/gl.png
+Grenada,12.1167,-61.6667,13102,61,212,0,12341,25,549,1,1644540328362,North America,https://disease.sh/assets/img/flags/gd.png
+Guadeloupe,16.25,-61.5833,119534,0,808,0,2250,0,116476,21,1644540328064,North America,https://disease.sh/assets/img/flags/gp.png
+Guatemala,15.5,-90.25,725701,4899,16577,35,661027,2661,48097,5,1644540327561,North America,https://disease.sh/assets/img/flags/gt.png
+Guinea,11.0,-10.0,36314,17,434,2,32662,26,3218,49,1644540328266,Africa,https://disease.sh/assets/img/flags/gn.png
+Guinea-Bissau,12.0,-15.0,7813,0,158,0,6863,0,792,6,1644540328372,Africa,https://disease.sh/assets/img/flags/gw.png
+Guyana,5.0,-59.0,62061,160,1188,0,57729,420,3144,17,1644540328157,South America,https://disease.sh/assets/img/flags/gy.png
+Haiti,19.0,-72.4167,29888,0,806,0,24986,0,4096,0,1644540328273,North America,https://disease.sh/assets/img/flags/ht.png
+Holy See (Vatican City State),41.9,12.45,29,0,0,0,28,0,1,0,1644540328458,Europe,https://disease.sh/assets/img/flags/va.png
+Honduras,15.0,-86.5,402329,0,10559,0,127289,0,264481,105,1644540327681,North America,https://disease.sh/assets/img/flags/hn.png
+Hong Kong,22.25,114.1667,18794,986,216,1,13232,0,5346,0,1644540328288,Asia,https://disease.sh/assets/img/flags/hk.png
+Hungary,47.0,20.0,1684432,12885,42269,99,1410550,10413,231613,198,1644540327462,Europe,https://disease.sh/assets/img/flags/hu.png
+Iceland,65.0,-18.0,83942,2254,52,2,74157,2326,9733,2,1644540328072,Europe,https://disease.sh/assets/img/flags/is.png
+India,20.0,77.0,42534048,55988,507208,659,41320134,139383,706706,8944,1644540326688,Asia,https://disease.sh/assets/img/flags/in.png
+Indonesia,-5.0,120.0,4667554,40618,144858,74,4234510,18182,288186,1365,1644540326871,Asia,https://disease.sh/assets/img/flags/id.png
+Iran,32.0,53.0,6730608,33681,133294,130,6238083,22174,359231,3097,1644540326774,Asia,https://disease.sh/assets/img/flags/ir.png
+Iraq,33.0,44.0,2267745,4220,24626,26,2172866,5504,70253,230,1644540327374,Asia,https://disease.sh/assets/img/flags/iq.png
+Ireland,53.0,-8.0,1236188,5649,6291,0,1015012,19227,214885,63,1644540327469,Europe,https://disease.sh/assets/img/flags/ie.png
+Isle of Man,54.23,-4.55,22014,0,73,0,21638,0,303,0,1644540328279,Europe,https://disease.sh/assets/img/flags/im.png
+Israel,31.5,34.75,3347657,31422,9399,62,3011502,33142,326756,1159,1644540327160,Asia,https://disease.sh/assets/img/flags/il.png
+Italy,42.8333,12.8333,11923631,75861,150221,325,9960136,137221,1813274,1322,1644540326765,Europe,https://disease.sh/assets/img/flags/it.png
+Jamaica,18.25,-77.5,126589,152,2708,2,72219,242,51662,25,1644540328062,North America,https://disease.sh/assets/img/flags/jm.png
+Japan,36.0,138.0,3566188,97946,19742,155,2674869,74560,871577,1270,1644540327058,Asia,https://disease.sh/assets/img/flags/jp.png
+Jordan,31.0,36.0,1417890,21460,13431,22,1217112,11294,187347,1232,1644540327465,Asia,https://disease.sh/assets/img/flags/jo.png
+Kazakhstan,48.0,68.0,1283171,3329,13417,20,1197805,9334,71949,528,1644540327467,Asia,https://disease.sh/assets/img/flags/kz.png
+Kenya,1.0,38.0,322334,60,5626,4,300305,3823,16403,8,1644540327765,Africa,https://disease.sh/assets/img/flags/ke.png
+Kiribati,1.4167,173.0,2235,62,0,0,0,0,2235,0,1644540328385,Australia-Oceania,https://disease.sh/assets/img/flags/ki.png
+Kuwait,29.3375,47.6581,593889,3324,2517,3,538421,5495,52951,91,1644540327569,Asia,https://disease.sh/assets/img/flags/kw.png
+Kyrgyzstan,41.0,75.0,199821,107,2917,4,191958,279,4946,131,1644540327876,Asia,https://disease.sh/assets/img/flags/kg.png
+Lao People's Democratic Republic,18.0,105.0,138007,450,584,1,7660,0,129763,0,1644540327972,Asia,https://disease.sh/assets/img/flags/la.png
+Latvia,57.0,25.0,488329,11599,4987,9,358975,18198,124367,74,1644540327662,Europe,https://disease.sh/assets/img/flags/lv.png
+Lebanon,33.8333,35.8333,999155,6060,9789,20,682977,0,306389,186,1644540327480,Asia,https://disease.sh/assets/img/flags/lb.png
+Lesotho,-29.5,28.5,32372,22,696,1,22812,305,8864,0,1644540328271,Africa,https://disease.sh/assets/img/flags/ls.png
+Liberia,6.5,-9.5,7346,0,290,0,5747,0,1309,2,1644540328373,Africa,https://disease.sh/assets/img/flags/lr.png
+Libyan Arab Jamahiriya,25.0,17.0,463321,3773,6107,11,409716,2999,47498,129,1644540327668,Africa,https://disease.sh/assets/img/flags/ly.png
+Liechtenstein,47.1667,9.5333,10238,145,74,0,9658,85,506,3,1644540328366,Europe,https://disease.sh/assets/img/flags/li.png
+Lithuania,56.0,24.0,787552,10179,8046,7,673860,10890,105646,86,1644540327493,Europe,https://disease.sh/assets/img/flags/lt.png
+Luxembourg,49.75,6.1667,172502,1050,968,2,146801,3069,24733,9,1644540327959,Europe,https://disease.sh/assets/img/flags/lu.png
+MS Zaandam,0.0,0.0,9,0,2,0,7,0,0,0,1644540328460,,https://disease.sh/assets/img/flags/unknown.png
+Macao,22.1667,113.55,79,0,0,0,79,0,0,0,1644540328394,Asia,https://disease.sh/assets/img/flags/mo.png
+Macedonia,41.8333,22.0,283547,1400,8686,28,263196,1455,11665,0,1644540327771,Europe,https://disease.sh/assets/img/flags/mk.png
+Madagascar,-20.0,47.0,61434,0,1307,0,54687,0,5440,224,1644540328158,Africa,https://disease.sh/assets/img/flags/mg.png
+Malawi,-13.5,34.0,84936,21,2586,6,71537,182,10813,67,1644540328071,Africa,https://disease.sh/assets/img/flags/mw.png
+Malaysia,2.5,112.5,2975422,19090,32075,10,2835464,5712,107883,158,1644540327360,Asia,https://disease.sh/assets/img/flags/my.png
+Maldives,3.25,73.0,155917,1406,287,1,139409,1292,16221,25,1644540327970,Asia,https://disease.sh/assets/img/flags/mv.png
+Mali,17.0,-4.0,30251,15,715,0,27110,24,2426,0,1644540328272,Africa,https://disease.sh/assets/img/flags/ml.png
+Malta,35.8333,14.5833,69651,118,576,4,66722,270,2353,4,1644540328077,Europe,https://disease.sh/assets/img/flags/mt.png
+Marshall Islands,9.0,168.0,7,0,0,0,7,0,0,0,1644540328462,Australia-Oceania,https://disease.sh/assets/img/flags/mh.png
+Martinique,14.6667,-61.0,101298,0,854,0,104,0,100340,26,1644540328067,North America,https://disease.sh/assets/img/flags/mq.png
+Mauritania,20.0,-12.0,58542,15,971,0,57099,117,472,30,1644540328161,Africa,https://disease.sh/assets/img/flags/mr.png
+Mauritius,-20.2833,57.55,27381,0,762,0,25684,0,935,0,1644540328274,Africa,https://disease.sh/assets/img/flags/mu.png
+Mayotte,-12.8333,45.1667,36556,0,187,0,2964,0,33405,0,1644540328265,Africa,https://disease.sh/assets/img/flags/yt.png
+Mexico,23.0,-102.0,5192008,24898,310627,743,4405695,31115,475686,4798,1644540326869,North America,https://disease.sh/assets/img/flags/mx.png
+Micronesia,6.9167,158.25,1,0,0,0,1,0,0,0,1644540328463,Australia-Oceania,https://disease.sh/assets/img/flags/fm.png
+Moldova,47.0,29.0,477419,2871,10866,29,423937,4931,42616,265,1644540327664,Europe,https://disease.sh/assets/img/flags/md.png
+Monaco,43.7333,7.4,8956,34,49,0,8630,30,277,4,1644540328369,Europe,https://disease.sh/assets/img/flags/mc.png
+Mongolia,46.0,105.0,453053,1230,2137,3,313256,0,137660,192,1644540327670,Asia,https://disease.sh/assets/img/flags/mn.png
+Montenegro,42.0,19.0,225253,460,2624,2,218971,684,3658,60,1644540327873,Europe,https://disease.sh/assets/img/flags/me.png
+Montserrat,16.75,-62.2,163,0,2,0,161,0,0,0,1644540328391,North America,https://disease.sh/assets/img/flags/ms.png
+Morocco,32.0,-5.0,1152414,1333,15727,29,1115118,2197,21569,293,1644540327474,Africa,https://disease.sh/assets/img/flags/ma.png
+Mozambique,-18.25,35.0,224559,65,2188,2,217951,276,4420,13,1644540327875,Africa,https://disease.sh/assets/img/flags/mz.png
+Myanmar,22.0,98.0,541904,1307,19310,0,514833,226,7761,0,1644540327659,Asia,https://disease.sh/assets/img/flags/mm.png
+Namibia,-22.0,17.0,156563,44,3988,4,151129,746,1446,8,1644540327968,Africa,https://disease.sh/assets/img/flags/na.png
+Nepal,28.0,84.0,971475,1013,11864,12,930607,2238,29004,100,1644540327483,Asia,https://disease.sh/assets/img/flags/np.png
+Netherlands,52.5,5.75,5523354,86779,21358,15,3378733,29032,2123263,209,1644540326862,Europe,https://disease.sh/assets/img/flags/nl.png
+New Caledonia,-21.5,165.5,33996,1101,284,0,19471,205,14241,36,1644540328267,Australia-Oceania,https://disease.sh/assets/img/flags/nc.png
+New Zealand,-41.0,174.0,18837,334,53,0,15499,84,3285,0,1644540328287,Australia-Oceania,https://disease.sh/assets/img/flags/nz.png
+Nicaragua,13.0,-85.0,17791,0,218,0,4225,0,13348,0,1644540328289,North America,https://disease.sh/assets/img/flags/ni.png
+Niger,16.0,8.0,8703,3,303,0,8229,6,171,1,1644540328370,Africa,https://disease.sh/assets/img/flags/ne.png
+Nigeria,10.0,8.0,253875,0,3139,0,230221,0,20515,11,1644540327866,Africa,https://disease.sh/assets/img/flags/ng.png
+Norway,62.0,10.0,986855,24448,1513,1,88952,0,896390,26,1644540327481,Europe,https://disease.sh/assets/img/flags/no.png
+Oman,21.0,57.0,360999,1743,4195,5,333906,2433,22898,73,1644540327761,Asia,https://disease.sh/assets/img/flags/om.png
+Pakistan,30.0,70.0,1474075,3914,29648,47,1359757,5459,84670,1716,1644540327463,Asia,https://disease.sh/assets/img/flags/pk.png
+Palau,7.5,134.5,3045,89,0,0,1609,92,1436,22,1644540328384,Australia-Oceania,https://disease.sh/assets/img/flags/pw.png
+Palestine,32.0,35.25,549572,3899,4966,20,491918,4283,52688,116,1644540327658,Asia,https://disease.sh/assets/img/flags/ps.png
+Panama,9.0,-80.0,735235,0,7898,0,694816,0,32521,83,1644540327558,North America,https://disease.sh/assets/img/flags/pa.png
+Papua New Guinea,-6.0,147.0,38222,239,610,13,36311,148,1301,7,1644540328257,Australia-Oceania,https://disease.sh/assets/img/flags/pg.png
+Paraguay,-23.0,-58.0,618815,2904,17801,50,555799,5995,45215,190,1644540327567,South America,https://disease.sh/assets/img/flags/py.png
+Peru,-10.0,-76.0,3397637,0,207536,0,0,0,3190101,1365,1644540327061,South America,https://disease.sh/assets/img/flags/pe.png
+Philippines,13.0,122.0,3627575,4575,54783,1,3479485,7504,93307,312,1644540326965,Asia,https://disease.sh/assets/img/flags/ph.png
+Poland,52.0,20.0,5313111,42095,107466,262,4451403,44623,754242,1169,1644540326865,Europe,https://disease.sh/assets/img/flags/pl.png
+Portugal,39.5,-8.0,3025421,27651,20401,47,2388235,17526,616785,168,1644540327358,Europe,https://disease.sh/assets/img/flags/pt.png
+Qatar,25.5,51.25,348924,783,655,2,338138,1358,10131,43,1644540327763,Asia,https://disease.sh/assets/img/flags/qa.png
+Romania,46.0,25.0,2508860,26466,61231,138,2060839,22123,386790,1146,1644540327366,Europe,https://disease.sh/assets/img/flags/ro.png
+Russia,60.0,100.0,13527845,197076,338091,701,10909397,106092,2280357,2300,1644540326762,Europe,https://disease.sh/assets/img/flags/ru.png
+Rwanda,-2.0,30.0,129234,24,1449,0,45522,0,82263,1,1644540328059,Africa,https://disease.sh/assets/img/flags/rw.png
+Réunion,-21.1,55.6,256787,0,565,0,216172,0,40050,60,1644540327864,Africa,https://disease.sh/assets/img/flags/re.png
+S. Korea,37.0,127.5,1185361,54113,6963,20,735348,15721,443050,282,1644540327473,Asia,https://disease.sh/assets/img/flags/kr.png
+Saint Helena,-15.9333,-5.7,2,0,0,0,2,0,0,0,1644540328463,Africa,https://disease.sh/assets/img/flags/sh.png
+Saint Kitts and Nevis,17.3333,-62.75,5492,0,39,0,5294,0,159,1,1644540328381,North America,https://disease.sh/assets/img/flags/kn.png
+Saint Lucia,13.8833,-61.1333,21831,0,342,0,19700,0,1789,0,1644540328280,North America,https://disease.sh/assets/img/flags/lc.png
+Saint Martin,18.11,-63.03,9439,0,61,0,1399,0,7979,7,1644540328369,North America,https://disease.sh/assets/img/flags/mf.png
+Saint Pierre Miquelon,46.8333,-56.3333,1009,7,1,0,951,25,57,1,1644540328386,North America,https://disease.sh/assets/img/flags/pm.png
+Saint Vincent and the Grenadines,13.25,-61.2,6715,0,101,0,6482,0,132,17,1644540328376,North America,https://disease.sh/assets/img/flags/vc.png
+Samoa,-13.5833,-172.3333,33,0,0,0,3,0,30,0,1644540328457,Australia-Oceania,https://disease.sh/assets/img/flags/ws.png
+San Marino,43.7667,12.4167,13571,0,109,0,12258,0,1204,2,1644540328361,Europe,https://disease.sh/assets/img/flags/sm.png
+Sao Tome and Principe,1.0,7.0,5913,0,71,0,5812,0,30,0,1644540328377,Africa,https://disease.sh/assets/img/flags/st.png
+Saudi Arabia,25.0,45.0,722002,2866,8965,3,681711,3379,31326,1052,1644540327563,Asia,https://disease.sh/assets/img/flags/sa.png
+Senegal,14.0,-14.0,85308,26,1956,0,82886,248,466,5,1644540328070,Africa,https://disease.sh/assets/img/flags/sn.png
+Serbia,44.0,21.0,1817207,11121,14234,63,1530729,12101,272244,181,1644540327461,Europe,https://disease.sh/assets/img/flags/rs.png
+Seychelles,-4.5833,55.6667,38120,0,157,0,36737,0,1226,0,1644540328261,Africa,https://disease.sh/assets/img/flags/sc.png
+Sierra Leone,8.5,-11.5,7648,10,125,0,0,0,7523,0,1644540328372,Africa,https://disease.sh/assets/img/flags/sl.png
+Singapore,1.3667,103.8,439640,10686,882,1,397699,8371,41059,13,1644540327675,Asia,https://disease.sh/assets/img/flags/sg.png
+Sint Maarten,18.02,-63.06,9469,20,83,0,9106,41,280,10,1644540328368,North America,https://disease.sh/assets/img/flags/sx.png
+Slovakia,48.6667,19.5,1187002,20160,18040,26,939619,14233,229343,234,1644540327470,Europe,https://disease.sh/assets/img/flags/sk.png
+Slovenia,46.0,15.0,828508,12126,6044,16,650724,14210,171740,141,1644540327490,Europe,https://disease.sh/assets/img/flags/si.png
+Solomon Islands,-8.0,159.0,3795,0,40,0,1025,0,2730,50,1644540328382,Australia-Oceania,https://disease.sh/assets/img/flags/sb.png
+Somalia,10.0,49.0,26203,0,1340,0,13182,0,11681,0,1644540328276,Africa,https://disease.sh/assets/img/flags/so.png
+South Africa,-29.0,24.0,3634811,3169,96705,203,3494016,2390,44090,546,1644540326961,Africa,https://disease.sh/assets/img/flags/za.png
+South Sudan,6.8769,31.3069,16880,7,137,0,13077,0,3666,1,1644540328290,Africa,https://disease.sh/assets/img/flags/ss.png
+Spain,40.0,-4.0,10555196,53055,95606,393,7264623,97183,3194967,1633,1644540326768,Europe,https://disease.sh/assets/img/flags/es.png
+Sri Lanka,7.0,81.0,624545,1297,15723,31,593975,373,14847,0,1644540327565,Asia,https://disease.sh/assets/img/flags/lk.png
+St. Barth,17.89,-62.82,3435,0,6,0,0,0,3429,0,1644540328383,North America,https://disease.sh/assets/img/flags/bl.png
+Sudan,15.0,30.0,59455,110,3764,6,40329,0,15362,0,1644540328160,Africa,https://disease.sh/assets/img/flags/sd.png
+Suriname,4.0,-56.0,76498,259,1291,3,49302,1,25905,11,1644540328076,South America,https://disease.sh/assets/img/flags/sr.png
+Swaziland,-26.5,31.5,68727,25,1381,0,67085,25,261,11,1644540328079,Africa,https://disease.sh/assets/img/flags/sz.png
+Sweden,62.0,15.0,2389605,0,16360,0,1494707,22890,878538,93,1644540327371,Europe,https://disease.sh/assets/img/flags/se.png
+Switzerland,47.0,8.0,2505007,15823,13039,9,1575405,34578,916563,207,1644540327367,Europe,https://disease.sh/assets/img/flags/ch.png
+Syrian Arab Republic,35.0,38.0,52243,0,3017,0,41577,0,7649,0,1644540328166,Asia,https://disease.sh/assets/img/flags/sy.png
+Taiwan,23.5,121.0,19376,83,851,0,17257,67,1268,0,1644540328286,Asia,https://disease.sh/assets/img/flags/tw.png
+Tajikistan,39.0,71.0,17367,6,124,0,17218,5,25,0,1644540328289,Asia,https://disease.sh/assets/img/flags/tj.png
+Tanzania,-6.0,35.0,33436,0,792,0,0,0,32644,7,1644540328268,Africa,https://disease.sh/assets/img/flags/tz.png
+Thailand,15.0,100.0,2545873,14822,22367,20,2418380,8503,105126,542,1644540327364,Asia,https://disease.sh/assets/img/flags/th.png
+Timor-Leste,-8.55,125.5167,21158,216,122,0,19828,9,1208,19,1644540328282,Asia,https://disease.sh/assets/img/flags/tl.png
+Togo,8.0,1.1667,36620,8,270,0,34223,111,2127,0,1644540328264,Africa,https://disease.sh/assets/img/flags/tg.png
+Tonga,-20.0,-175.0,66,31,0,0,2,0,64,0,1644540328396,Australia-Oceania,https://disease.sh/assets/img/flags/to.png
+Trinidad and Tobago,11.0,-61.0,118263,738,3501,6,93717,2303,21045,22,1644540328065,North America,https://disease.sh/assets/img/flags/tt.png
+Tunisia,34.0,9.0,958549,3823,26941,52,867338,8608,64270,200,1644540327484,Africa,https://disease.sh/assets/img/flags/tn.png
+Turkey,39.0,35.0,12653276,98602,89741,264,11755917,87932,807618,1128,1644540326764,Asia,https://disease.sh/assets/img/flags/tr.png
+Turks and Caicos Islands,21.75,-71.5833,5806,0,35,0,5649,0,122,4,1644540328379,North America,https://disease.sh/assets/img/flags/tc.png
+UAE,24.0,54.0,864102,1588,2278,5,793619,2301,68205,0,1644540327488,Asia,https://disease.sh/assets/img/flags/ae.png
+UK,54.0,-2.0,18000119,0,158953,0,15596741,0,2244425,430,1644540326760,Europe,https://disease.sh/assets/img/flags/gb.png
+USA,38.0,-97.0,78972570,153886,939125,2167,49358733,141379,28674712,17795,1644540326686,North America,https://disease.sh/assets/img/flags/us.png
+Uganda,1.0,32.0,162492,49,3567,2,99501,14,59424,108,1644540327963,Africa,https://disease.sh/assets/img/flags/ug.png
+Ukraine,49.0,32.0,4421741,41694,102167,280,3729976,16628,589598,177,1644540326957,Europe,https://disease.sh/assets/img/flags/ua.png
+Uruguay,-33.0,-56.0,758366,8812,6710,14,693813,10294,57843,160,1644540327495,South America,https://disease.sh/assets/img/flags/uy.png
+Uzbekistan,41.0,64.0,231871,692,1595,3,214468,732,15808,23,1644540327870,Asia,https://disease.sh/assets/img/flags/uz.png
+Vanuatu,-16.0,167.0,7,0,1,0,6,0,0,0,1644540328461,Australia-Oceania,https://disease.sh/assets/img/flags/vu.png
+Venezuela,8.0,-66.0,500545,0,5511,0,479721,0,15313,230,1644540327660,South America,https://disease.sh/assets/img/flags/ve.png
+Vietnam,21.0,105.8,2430683,26032,38688,74,2206594,9992,185401,2699,1644540327370,Asia,https://disease.sh/assets/img/flags/vn.png
+Wallis and Futuna,-13.3,-176.2,454,0,7,0,438,0,9,0,1644540328389,Australia-Oceania,https://disease.sh/assets/img/flags/wf.png
+Western Sahara,24.5,-13.0,10,0,1,0,8,0,1,0,1644540328459,Africa,https://disease.sh/assets/img/flags/eh.png
+Yemen,15.0,48.0,11166,0,2028,0,7183,0,1955,23,1644540328364,Asia,https://disease.sh/assets/img/flags/ye.png
+Zambia,-15.0,30.0,308556,506,3935,1,301709,466,2912,33,1644540327767,Africa,https://disease.sh/assets/img/flags/zm.png
+Zimbabwe,-20.0,30.0,230880,0,5367,0,222263,0,3250,12,1644540327871,Africa,https://disease.sh/assets/img/flags/zw.png
