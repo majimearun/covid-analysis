@@ -26,3 +26,5 @@
   ```
 
 - Choose new env kernel in vscode and run notebook
+
+Note: [TSErrors.py](https://github.com/majimearun/covid-analysis/blob/main/src/TSErrors.py) is an old utility script whose version this project depedended on. It was removed from pypi when project was made so I had to add it manually, (I did not write it myself).
