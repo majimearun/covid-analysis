@@ -2,7 +2,7 @@ name: Update Timeseries
 
 on:
   schedule:
-    - cron: "0 0-23/1 * * *"
+    - cron: "0 0 1 * *"
 
 jobs:
   update_data:
